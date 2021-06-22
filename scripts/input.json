@@ -1,0 +1,6 @@
+{
+    "Groupsetting":{
+        "GroupList":["COO","NHCO", "ARG", "Methoxy", "TRP", "TYR", "PHE", "LYS", "MET", "CYS", "OH"],
+        "GroupNumCtrl":[30,65,10,10,10,20,20,40,15,15,20]
+    }
+}

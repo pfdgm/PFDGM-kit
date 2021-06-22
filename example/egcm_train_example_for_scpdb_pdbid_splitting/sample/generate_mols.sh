@@ -1,0 +1,1 @@
+nohup python -u sample_mols.py -c 2 -d ../../../basic_datasets/scPDB_pdbid_test_2021.pickle -m '../model/scPDB_2021_pdbid--250--0.1235' -o scPDB_2021pdbid_egcm_sample.pickle --descriptor sortedegcm    --ifnoise 0 --noisenum 0  -n 20 &
