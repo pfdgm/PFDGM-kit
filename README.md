@@ -5,7 +5,7 @@ Here is the main achievement of EGCM controlled cRNN for Code for the purposes o
 
 ### Custom Dependencies
 - [DeepDrugCoder (DDC)](https://github.com/pcko1/Deep-Drug-Coder) 
-- [structconvert] (contained in Sch)
+- [structconvert] (contained in Schrödinger)
 - [Vina] (Vina docking program)
 
 ### File structure
