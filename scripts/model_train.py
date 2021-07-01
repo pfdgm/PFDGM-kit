@@ -6,7 +6,7 @@ from rdkit import Chem
 import h5py, ast, pickle
 from ddc_pub import ddc_v3 as ddc
 import os
-
+import argparse as arg
 parser=arg.ArgumentParser(description='Grep cativity from a complex pdb')
 parser.add_argument('-i','--trainingset')
 parser.add_argument('-m','--modelname')
